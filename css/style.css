@@ -791,7 +791,7 @@ h6 {
   color: #fff;
   line-height: 1;
   padding: 8px 0;
-  margin-right: 4px;
+  margin-right: 8px;
   border-radius: 50%;
   text-align: center;
   width: 36px;
@@ -802,6 +802,9 @@ h6 {
 #footer .footer-top .social-links a:hover {
   background: #C3CDEA;
   color: #fff;
+}
+#footer .social-links{
+  padding: 20px 0;
 }
 
 #footer .footer-top h4 {
@@ -824,7 +827,7 @@ h6 {
 }
 
 #footer .footer-top .footer-links ul li {
-  padding: 8px 0;
+  padding: 3px 0;
 }
 
 #footer .footer-top .footer-links ul li:first-child {
@@ -1001,15 +1004,6 @@ h6 {
   }
 }
 
-@media (min-width: 992px) {
-  #intro .intro-info {
-    padding-top: 80px;
-  }
-
-  #testimonials .testimonial-item p {
-    width: 80%;
-  }
-}
 
 @media (max-width: 991px) {
   #topbar {
