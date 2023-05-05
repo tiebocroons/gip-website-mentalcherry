@@ -872,6 +872,7 @@ h6 {
 #footer .footer-top .footer-newsletter input[type="submit"] {
   background: #58709d;
   border: 1px solid #58709d;
+  border-radius: 3px;
   width: 35%;
   padding: 6px 0;
   text-align: center;
