@@ -5,7 +5,7 @@ if (isset($_POST['submit'])) {
   $subject = $_POST['subject'];
   $message = $_POST['message'];
 
-  $to = "Tiebo.croons@gmail.com";
+  $to = "tiebo.croons@gmail.com";
   $headers = "From: " . $email;
   $body = "Naam: " . $name . "\nE-mail: " . $email . "\nOnderwerp: " . $subject . "\nBericht: " . $message;
 
