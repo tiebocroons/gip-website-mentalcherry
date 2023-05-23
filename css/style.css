@@ -976,7 +976,6 @@ h6 {
 /*--------------------------------------------------------------
 # Responsive Media Queries
 --------------------------------------------------------------*/
-
 @media (min-width: 991px) {
   #call-to-action .cta-btn-container {
     display: -webkit-box;
