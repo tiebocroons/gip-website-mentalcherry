@@ -164,16 +164,14 @@ h6 {
   z-index: 997;
 }
 
-#header.header-scrolled,
-#header.header-pages {
+#header.header-scrolled {
   height: 70px;
   padding: 15px 0;
   background-color: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
 }
 
-#header.header-scrolled #topbar,
-#header.header-pages #topbar {
+#header.header-scrolled #topbar {
   display: none;
 }
 #header .logo img {
@@ -976,6 +974,39 @@ h6 {
 /*--------------------------------------------------------------
 # Responsive Media Queries
 --------------------------------------------------------------*/
+@media (max-width: 2560px) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 600;
+  }
+  p {
+    font-size: 18px;
+  }
+  #footer .footer-top .footer-info p {
+    font-size: 18px;
+  }
+  a {
+    font-size: 18px;
+  }
+  #services .description {
+    font-size: 18px;
+  }
+  img {
+    width: 120%;
+  }
+}
+@media (max-width: 1440px) {
+  #header.header-scrolled {
+    height: 90px;
+  }
+  #header a .scale {
+    width: 35%;
+  }
+}
 @media (min-width: 991px) {
   #call-to-action .cta-btn-container {
     display: -webkit-box;
@@ -1022,6 +1053,9 @@ h6 {
       bottom: 15px;
     }
 
+    #header.header-scrolled {
+      height: 90px;
+    }
     #faq #faq-list a {
       font-size: 18px;
     }
@@ -1044,6 +1078,9 @@ h6 {
     #intro .intro-img {
       width: 120%;
     }
+    #header .scale {
+      width: 40%;
+    }
 
     #intro .intro-info {
       text-align: center;
@@ -1062,6 +1099,9 @@ h6 {
   @media (max-width: 574px) {
     #footer .footer-top .social-links a {
       margin-bottom: 25px;
+    }
+    #header a .scale {
+      width: 40%;
     }
   }
 }
