@@ -172,13 +172,8 @@ h6 {
 #header.header-pages #topbar {
   display: none;
 }
-
 #header .logo img {
-  width: 25%;
-}
-
-.main-pages {
-  margin-top: 60px;
+  width: 35%;
 }
 
 /*--------------------------------------------------------------
