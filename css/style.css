@@ -173,26 +173,8 @@ h6 {
   display: none;
 }
 
-#header .logo h1 {
-  font-size: 36px;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  font-weight: 400;
-  letter-spacing: 3px;
-  text-transform: uppercase;
-}
-
-#header .logo h1 a,
-#header .logo h1 a:hover {
-  color: #413e66;
-  text-decoration: none;
-}
-
 #header .logo img {
-  padding: 0;
-  margin: 7px 0;
-  max-height: 26px;
+  width: 25%;
 }
 
 .main-pages {
@@ -1028,9 +1010,9 @@ h6 {
     padding: 15px 0;
   }
 
-  #header .logo h1 {
-    font-size: 28px;
-    padding: 8px 0;
+  #header .logo {
+    width: 50%;
+    padding: 0 0 20px 0;
   }
 
   #why-us .why-us-content {
