@@ -974,31 +974,6 @@ h6 {
 /*--------------------------------------------------------------
 # Responsive Media Queries
 --------------------------------------------------------------*/
-@media (max-width: 2560px) {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-weight: 600;
-  }
-  p {
-    font-size: 18px;
-  }
-  #footer .footer-top .footer-info p {
-    font-size: 18px;
-  }
-  a {
-    font-size: 18px;
-  }
-  #services .description {
-    font-size: 18px;
-  }
-  img {
-    width: 120%;
-  }
-}
 @media (max-width: 1440px) {
   #header.header-scrolled {
     height: 90px;
