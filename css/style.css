@@ -6,6 +6,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   background: #fff;
   color: #444;
@@ -174,6 +175,7 @@ h6 {
 #header.header-scrolled #topbar {
   display: none;
 }
+
 #header .logo img {
   width: 30%;
 }
@@ -790,6 +792,7 @@ h6 {
   background: #c3cdea;
   color: #fff;
 }
+
 #footer .social-links {
   padding: 20px 0;
 }
@@ -978,10 +981,12 @@ h6 {
   #header.header-scrolled {
     height: 90px;
   }
+
   #header a .scale {
     width: 35%;
   }
 }
+
 @media (min-width: 991px) {
   #call-to-action .cta-btn-container {
     display: -webkit-box;
@@ -998,6 +1003,7 @@ h6 {
     justify-content: flex-end;
   }
 }
+
 @media (min-width: 992px) {
   #intro .intro-info {
     padding-top: 80px;
@@ -1031,6 +1037,7 @@ h6 {
     #header.header-scrolled {
       height: 90px;
     }
+
     #faq #faq-list a {
       font-size: 18px;
     }
@@ -1053,6 +1060,7 @@ h6 {
     #intro .intro-img {
       width: 120%;
     }
+
     #header .scale {
       width: 40%;
     }
@@ -1071,10 +1079,12 @@ h6 {
       width: 100%;
     }
   }
+
   @media (max-width: 574px) {
     #footer .footer-top .social-links a {
       margin-bottom: 25px;
     }
+
     #header a .scale {
       width: 40%;
     }
