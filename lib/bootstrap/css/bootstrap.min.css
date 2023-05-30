@@ -516,6 +516,16 @@ pre code {
     max-width: 1024px;
   }
 }
+@media (min-width: 1440px) {
+  .container {
+    max-width: 1200px;
+  }
+}
+@media (min-width: 2560px) {
+  .container {
+    max-width: 1440px;
+  }
+}
 .container-fluid {
   width: 100%;
   padding-right: 15px;
