@@ -54,7 +54,7 @@ h6 {
   height: 44px;
   text-align: center;
   line-height: 1;
-  font-size: 16px;
+  font-size: 1rem;
   border-radius: 50%;
   right: 15px;
   bottom: 15px;
@@ -124,7 +124,7 @@ h6 {
 
 #topbar {
   padding: 0 0 10px 0;
-  font-size: 14px;
+  font-size: 0.875rem;
   transition: all 0.5s;
 }
 
@@ -196,7 +196,7 @@ h6 {
 #intro .intro-info h2 {
   color: #413e66;
   margin-bottom: 40px;
-  font-size: 48px;
+  font-size: 3rem;
   font-weight: 700;
 }
 
@@ -229,7 +229,7 @@ h6 {
   color: #413e66;
   padding: 10px 15px 0 0;
   transition: 0.3s;
-  font-size: 14px;
+  font-size: 0.875rem;
   font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
   font-weight: 600;
@@ -285,7 +285,7 @@ h6 {
   z-index: 9998;
   border: 0;
   background: none;
-  font-size: 24px;
+  font-size: 1.5rem;
   transition: all 0.4s;
   outline: none !important;
   line-height: 1;
@@ -330,7 +330,7 @@ h6 {
 --------------------------------*/
 
 .section-header h3 {
-  font-size: 36px;
+  font-size: 2.25rem;
   color: #413e66;
   text-align: center;
   font-weight: 700;
@@ -341,7 +341,7 @@ h6 {
 .section-header p {
   text-align: center;
   margin: auto;
-  font-size: 15px;
+  font-size: 0.9375rem;
   padding-bottom: 60px;
   color: #535074;
   width: 50%;
@@ -374,7 +374,7 @@ h6 {
 #about .about-content h3 {
   color: #696592;
   font-weight: 400;
-  font-size: 22px;
+  font-size: 1.375rem;
   font-style: italic;
 }
 
@@ -388,7 +388,7 @@ h6 {
 }
 
 #about .about-content ul li i {
-  font-size: 20px;
+  font-size: 1.25rem;
   padding-right: 4px;
   color: #58709d;
 }
@@ -469,14 +469,14 @@ h6 {
 }
 
 #services .icon i {
-  font-size: 36px;
+  font-size: 2.25rem;
   line-height: 1;
 }
 
 #services .title {
   font-weight: 700;
   margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 1.125rem;
 }
 
 #services .title a {
@@ -488,7 +488,7 @@ h6 {
 }
 
 #services .description {
-  font-size: 14px;
+  font-size: 0.875rem;
   line-height: 28px;
   margin-bottom: 0;
   text-align: left;
@@ -505,7 +505,7 @@ h6 {
 
 #call-to-action .cta-title {
   color: #fff;
-  font-size: 28px;
+  font-size: 1.75rem;
   font-weight: 700;
 }
 
@@ -516,7 +516,7 @@ h6 {
 #call-to-action .cta-btn {
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 1rem;
   letter-spacing: 1px;
   display: inline-block;
   padding: 8px 26px;
@@ -551,7 +551,7 @@ h6 {
   margin: 15px 15px 15px 0;
   display: inline-block;
   padding: 6px 10px;
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 20px;
   color: #413e66;
   margin-bottom: 5px;
@@ -613,7 +613,7 @@ h6 {
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info h4 {
-  font-size: 22px;
+  font-size: 1.375rem;
   line-height: 1px;
   font-weight: 700;
   margin-bottom: 14px;
@@ -633,7 +633,7 @@ h6 {
   margin: 0;
   color: #f8fcff;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 0.875rem;
   text-transform: uppercase;
 }
 
@@ -652,7 +652,7 @@ h6 {
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-preview i,
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-details i {
   padding-top: 6px;
-  font-size: 22px;
+  font-size: 1.375rem;
   color: #fff;
 }
 
@@ -706,14 +706,14 @@ h6 {
   display: block;
   position: relative;
   font-family: "Montserrat", sans-serif;
-  font-size: 20px;
+  font-size: 1.25rem;
   line-height: 1;
   font-weight: 400;
   padding-right: 20px;
 }
 
 #faq #faq-list i {
-  font-size: 24px;
+  font-size: 1.5rem;
   position: absolute;
   right: 0;
   top: 20px;
@@ -741,7 +741,7 @@ h6 {
 
 #footer {
   padding: 0 0 30px 0;
-  font-size: 14px;
+  font-size: 0.875rem;
   background: #fff;
 }
 
@@ -755,7 +755,7 @@ h6 {
 }
 
 #footer .footer-top .footer-info h3 {
-  font-size: 34px;
+  font-size: 2.125rem;
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
@@ -767,7 +767,7 @@ h6 {
 }
 
 #footer .footer-top .footer-info p {
-  font-size: 13px;
+  font-size: 0.8125rem;
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Montserrat", sans-serif;
@@ -775,7 +775,7 @@ h6 {
 }
 
 #footer .footer-top .social-links a {
-  font-size: 18px;
+  font-size: 1.125rem;
   display: inline-block;
   background: #58709d;
   color: #fff;
@@ -799,7 +799,7 @@ h6 {
 }
 
 #footer .footer-top h4 {
-  font-size: 14px;
+  font-size: 0.875rem;
   font-weight: bold;
   color: #413e66;
   text-transform: uppercase;
@@ -903,7 +903,7 @@ h6 {
   display: none;
   margin: 0 0 20px;
   font-weight: 400;
-  font-size: 13px;
+  font-size: 0.8125rem;
 }
 
 #footer .footer-top .form label {
@@ -916,7 +916,7 @@ h6 {
   border-radius: 0;
   box-shadow: none;
   border: 1px solid #dce1ec;
-  font-size: 14px;
+  font-size: 0.875rem;
 }
 
 #footer .footer-top .form input::-webkit-input-placeholder,
@@ -957,12 +957,12 @@ h6 {
   text-align: center;
   padding-top: 30px;
   color: #535074;
-  font-size: 15px;
+  font-size: 0.9375rem;
 }
 
 #footer .credits {
   text-align: center;
-  font-size: 14px;
+  font-size: 0.875rem;
   padding-top: 4px;
   color: #8582a8;
 }
@@ -1040,7 +1040,7 @@ h6 {
     }
 
     #faq #faq-list a {
-      font-size: 18px;
+      font-size: 1.125rem;
     }
 
     #faq #faq-list i {
@@ -1072,7 +1072,7 @@ h6 {
     }
 
     #intro .intro-info h2 {
-      font-size: 34px;
+      font-size: 2.125rem;
       margin-bottom: 30px;
     }
 
